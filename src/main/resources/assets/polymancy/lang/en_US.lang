@@ -1,0 +1,169 @@
+# --- Items ---
+
+# - Inkwells -
+item.item_emberwell.name=Ember Scribing Tools
+item.item_bloodwell.name=Blood Scribing Tools
+item.item_primewell.name=Primoridial Scribing Tools
+
+# - Wand Rods -
+item_wand_rod_infernal.name=Infernal Rod
+item_wand_rod_chorus.name=Chorus Rod
+item_wand_rod_livingwood_inert.name=Dormant Livingwood Rod
+item_wand_rod_livingwood.name=Livingwood Rod
+item_wand_rod_dreamwood_inert.name=Silent Dreamwood Rod
+item_wand_rod_dreamwood.name=Dreamwood Rod
+item_wand_rod_archaic_inert.name=Extinct Archaic Rod
+item_wand_rod_archaic.name=Archaic Rod
+item_wand_rod_blood_inert.name=Bloodthirsty Blood Rod
+item_wand_rod_blood.name=Blood Rod
+
+# - Wand Caps -
+item_wand_cap_manasteel_inert.name=Inert Manasteel Cap
+item_wand_cap_manasteel.name=Manasteel Cap
+item_wand_cap_elementium_inert.name=Inert Elementium Cap
+item_wand_cap_elementium.name=Elementium Cap
+item_wand_cap_terrasteel.name=Terrasteel Cap
+item_wand_cap_dawnstone_inert.name=Inert Dawnstone Cap
+item_wand_cap_dawnstone.name=Dawnstone Cap
+item_wand_cap_alchemical.name=Alchemical Cap
+
+#
+
+# --- Wand Parts ---
+item.wand.infernal.rod=Infernal
+item.wand.chorus.rod=Chorus
+item.wand.livingwood.rod=Livingwood
+item.wand.dreamwood.rod=Dreamwood
+item.wand.archaic.rod=Archaic
+item.wand.blood.rod=Blood
+item.wand.equivalent.rod=Equivalent
+item.wand.marble.rod=Marble
+
+item.wand.manasteel.cap=Manasteel Entwined
+item.wand.elementium.cap=Elementium Kissed
+item.wand.terrasteel.cap=Terrasteel Nerfed
+item.wand.dawnstone.cap=Dawnstone Banded
+item.wand.alchemical.cap=Alchemically Crowned
+item.wand.starmetal.cap=Starmetal Attuned
+
+#
+
+# --- Research ---
+tc.research_category.POLYMANCY=Polymancy
+
+# -- Cards -- 
+
+# - Botania -
+
+# Alfheim
+card.alfheim.name=Alfheim
+card.alfheim.text=You study the natural resources of alfheim. You gain a deeper understanding of what is beyond the gate. Gain 20 Polymancy.
+
+# Mana
+card.mana.name=Mana
+card.mana.text=You try to understand the impact of mana on mudane materials. You gain a deeper understanding of mana. Gain 20 Polymancy.
+
+# Petals
+card.petal.name=Petals
+card.petal.text=You examine the petals carefully, trying to understand why these form magical flora. You gain a better understanding of Botany. Gain 15 Polymancy.
+
+# Rune
+card.rune.name=Runes
+card.rune.text=You try to make sense of the resonsnce between runes, mana and flora. Allowing to hvae a better understanding of Botany. Gain 20 Polymancy.
+
+# - Bloodmagic -
+
+# Blood Altar
+card.bloodaltar.name=Blood Magic
+card.bloodaltar.text=You try to grasp what blood does to mundane stone. You think you have gotten a deeper understanding of the essence of life. Gain 20 Polymancy.
+
+# Hellfireforge
+card.hellfireforge.name=Hellfire Forge
+card.hellfireforge.text=You experiment with Demonic Will, and study it's reactions to vis. You think you have gotten a deeper understanding of life. Gain 25 Polymancy.
+
+# - Embers -
+
+# Ember Bore
+card.bore.name=Ember boring
+card.bore.text=You study these crystals from what is beyond the core. You think you have gotten a deeper of ember. Gain 20 Polymancy.
+
+# -- Stages --
+
+# - Polymancy -
+
+# Polymancy
+research.POLYMANCY.stage.0=Polymacy descibes the art of being fluent in different schools of magic, this chapter means to explane the interactions between Thaumaturgy and other types of magic.
+
+# Infernal Rod
+research.ROD_INFERNAL.stage.0=The nether seems to be a place full of magic, how else could it be so hot in there, but my attemps at harnessing this power were fruitless, the energy just does not flow into my wand, it is somehow different, so maybe I should try it with something that is not as forein to the nether ?
+research.ROD_INFERNAL.stage.1=The Blaze Rod was a good starting point, but not enough to let the vis simply flow inside, so I had to add some catalyst creating a vis flow to the inside of the wand, this however is only strong enough while the wands charge is lower than 20%. For some reason the wands capacity was doubled as well resulting in a capacity of 1200 vis, which might is related to the magical affinity of the nether star, but what do I know.
+
+# Chorus Rod
+research.ROD_CHORUS.stage.0=The end looks like a place of full emptiness, but I know that there is a lot of magic, these dragons can not just come from nothing, but how can I collect all of the vis just flowing around there ? 
+research.ROD_CHORUS.stage.1=While a Obsidian Rod looks like a good place to start it just was not enough to harness the power of the void, so I tried using a part of the dragon itself and it seems to work, but only if wands charge is lower than 20%, also the capacity increased, allowing me to store 1200 vis, dragons are truely magical creatures.
+
+# Primoridial Inkwell
+research.PRIMEWELL.stage.0=Theorycrafting is the worst, always having to collect seemingly random thing to study, but running out of ink is far worse, if there was only a way to get rid of this problem once and for all.
+research.PRIMEWELL.stage.1=The Primoridial pearl is full of magic so it should be the easiest for it to refill my scribing tools, some might think this is a waste, but the people doubting me just have not seen past reality...
+
+# - Botania -
+
+# Botania
+research.BOTANIA.stage.0=Some mad alchemists say that flowers are the universal language with which the universe was sang into being.<BR><BR>Whether this is true or not, Botanists have discovered a way to harness the energy of flowers and other plant life to accomplish great feats of magic. Some Thaumaturges might scoff at such "filthy hedge wizardry," but there is a lot of power sleeping beneath the earth for those willing to take it.
+
+#Mana Inkwell
+research.MANAWELL.stage.0=It looks like my Inkwell can  be filled with mana instead of ink, just simply dropping it into a suficently filled pool should allow me to stop hunting for these nasty squids and focus more on my research.
+
+# Livngwood Rod
+research.ROD_LIVINGWOOD.stage.0=I have heard about a strange kind of wood it seems to be living more than just regular wood, I have a feelnig that this type of wood might have all the qualities required for a new wand rod, so I probably should get some. 
+research.ROD_LIVINGWOOD.stage.1=It worked, but Livingwood is also quite resitant to thaumaturgy, it really did not like the infusion, so it now has to be re-awakened in a mana pool, but it looks like that it is able to draw mana to turn it into vis, which will definitly come in handy, but Botania seems to offer so much more.
+
+# Dreamwood Rod
+research.ROD_DREAMWOOD.stage.0=The eleves have sent me a new type of wood which is similar to livingwood, but it feels somehow more potent, maybe I can create a even better wand rod from it.
+research.ROD_DREAMWOOD.stage.1=The process of making a dreamwood rod was actually quite similar to making a livingwood rod, however dreamwood can store far more vis than just plain livingwood alowing to store 800 vis, all while keeping its property to convert mana to vis.
+
+# Manasteel Cap
+research.CAP_MANASTEEL.stage.0=Infusing some mundane iron with mana resulted in a quite strong metal with an astonishing high magical potantial, so it should be relativly easy to turn it into some wand caps.
+research.CAP_MANASTEEL.stage.1=The metal does not like the metalworking, but once regenerated with some mana they provide an 10% reduction of vis, and make the conversion of mana to vis more efficient, and all that without an infusion.
+
+# Terrasteel Cap
+research.CAP_TERRASTEEL.stage.0=Terrasteel was created using massive amounts of mana, so it should conduct vis pretty well, right ? 
+research.CAP_TERRASTEEL.stage.1=It turns out that Terrasteel is not as great as I initialy thought, it is oversaturated with magic, it just can not stop holding onto it, making wand caps from it possibly not the best idea, however the smallest amount of vis comming from it is tinted with §8Terra§r I wonder what is up with that.
+
+# Elementium Cap
+research.CAP_ELEMENTIUM.stage.0=These elves sent me a new metal, I wonder if I could make caps from it, it seems to have a strong affinity for the elements, which might be usefull, just how do I turn it into a cap ? 
+research.CAP_ELEMENTIUM.stage.1=Getting the elementium into a shape suitable for wandcaps was relatively easy, getting them to work again is another story, it somehow lost all it's eleven properties in the process, but this spirit I found gave it new life, alowing for a 85 % discount as well as one crysral for each element. It seems like these caps are able to reduce mana consuption aswell.
+
+# - Blood Magic -
+
+# Blood Magic
+research.BLOODMAGIC.stage.0=Blood Magi, or "Alchemical Wizards" as some prefer to call themselves, are a strange, unsavory lot. Building strange ziggurats where they practice their bloody rites, Blood Magi use life energy to imbue items with magical power, or even craft spells.<BR><BR>A more unscrupulous Thaumaturge dabbling in blood magic may be able to get ahead in their studies, but at what cost?
+
+# Blood Inkwell
+research.BLOODWELL.stage.0=While it might not be the healthiest choice for a Thaumaturge to write research with once own blood, it should be possible for a Blood Mage, but this would probably take more than this mundane inkwell.
+research.BLOODWELL.stage.1=By combining a Weak Blood Orb with a new phial and a new feather I was able to create a new Inkwell using Blood instead of ink, it should be noted that this inkwell just does not like to be empty, so it will drain blood from it's owner, while this is not deadly it is unpleasent to say the least.
+
+# Blood Rod
+research.ROD_BLOOD.stage.0=Somehow Blood seems to have true magical properties, but it can not be turned into a wand rod, thinking of it, it might not be possible to turn it into a wand rod dirctly. but maybe it could be used to recharge it somehow...
+research.ROD_BLOOD.stage.1=I came up with a design for a wand rod that has an internal reservoir for blood inside, alowing the wand to charge from it, this however required the usage of a fairly advanced blood orb, so a suffienct amount of blood can be supplied. This rod is able to store 800 vis and is able to charge at the expanse of the owners life network, it just should not run out of life...  
+
+# Alchemical Caps
+research.CAP_ALCHEMICAL.stage.0=While the Blood Rod is neat it is still missing some fitting caps maybe blood magic has a solution aswell ?
+research.CAP_ALCHEMICAL.stage.1=These newly constructed wand caps are infused with the alchemical catalyst of water, incresing the efficency the conversion between life essence and vis, by infuing these also gained a small boost in vis discount to 90% aswell as a reduction in aqua crystals.
+
+# - Embers -
+
+# Embers
+research.EMBERS.stage.0=It is sill debated whether the people engaging in the study of Ember are actual Wizards or just boring engineers, however it seems that the substance they call ember is able to create some life like automatas, which definitly shows some affiliation to the arcane. It might be worthwhile for a Thaumaturge to harness the power of this "fire of the gods".
+
+# Ember Inkwell
+research.EMBERWELL.stage.0=The scripture in the Codex seems to glow the same way ember does, maybe there is some way I can use it in my own research.
+research.EMBERWELL.stage.1=I was able to modify a mantle jar, with a bit of thaumaturgy, turning it efectively in a ember powered scribing tool.
+
+# Archaic Rod
+research.ROD_ARCHAIC.stage.0=Ember is able to power huge golems made from solid rock, showing all it's capabilities, but I wonder if it is able to power some more intricate things, such as for example my wand.
+research.ROD_ARCHAIC.stage.1=I came up with a new design for a wand rod, which seems to be quite similar to that of an ancient golem, however it seems to be quite inactive, it seems like it has to be activated before it is able to convert ember into vis.
+
+# Dawnstone Caps
+research.CAP_DAWNSTONE.stage.0=The acient Codex says that Dawnstone is imbued with Ember so, I think I can exspect that these caps fit perfectly a top of my new wand rod, and since it is made from just gold and copper it should not be hard to turn into functioning wand caps. 
+research.CAP_DAWNSTONE.stage.1=While dawnstone is an excellent material for metalworking, it seems to lose some ember in the process, however this is nothing that can not be fixed with a little more ember, allowing for 5% reduced vis cost, aswell as a crystal discount of §eAER§r and §cIGNIS§r, and it seems to optimize the conversion rate from ember aswell.
