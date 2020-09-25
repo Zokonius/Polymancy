@@ -22,7 +22,7 @@ public class PolyWands {
 	public static ArrayList<IWandRod> rods = new ArrayList<>();
 
 	public static IWandCap capManasteel = new PolyWandCap("manasteel", 0.9F, new ItemStack(PolyItems.itemWandCap, 1, 1), 20);
-	public static IWandCap capElementium = new PolyWandCap("elementium", 0.85F, new AspectList().add(Aspect.AIR,1).add(Aspect.FIRE,1).add(Aspect.WATER,1).add(Aspect.EARTH,1), new ItemStack(PolyItems.itemWandCap, 1, 2), 25);
+	public static IWandCap capElementium = new PolyWandCap("elementium", 0.85F, new AspectList().add(Aspect.AIR,1).add(Aspect.FIRE,1).add(Aspect.WATER,1).add(Aspect.EARTH,1), new ItemStack(PolyItems.itemWandCap, 1, 3), 25);
 	public static IWandCap capTerrasteel = new PolyWandCap("terrasteel", 1.2F, new AspectList().add(Aspect.EARTH, 5), new ItemStack(PolyItems.itemWandCap, 1, 4), 1);
 	public static IWandCap capDawnstone = new PolyWandCap("dawnstone", 0.95F, new AspectList().add(Aspect.FIRE,1).add(Aspect.AIR,1), new ItemStack(PolyItems.itemWandCap, 1, 6), 10);
 	public static IWandCap capAlchemical = new PolyWandCap("alchemical", 0.9F,new AspectList().add(Aspect.WATER,1), new ItemStack(PolyItems.itemWandCap, 1, 7), 20);

@@ -3,7 +3,7 @@
   "modid": "polymancy",
   "name": "Polymancy",
   "description": "Crossmod compatability for Thaumic Wands",
-  "version": "1.0",
+  "version": "1.0.1",
   "mcversion": "1.12.2",
   "authorList": ["Zoko061602"],
   "credits": "Special thanks to Azanor for making Thaumcraft",
