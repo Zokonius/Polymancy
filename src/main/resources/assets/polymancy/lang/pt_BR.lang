@@ -1,0 +1,188 @@
+# --- Items ---
+
+# - Inkwells -
+item.item_emberwell.name=Ferramentas de Escrita de Ambar
+item.item_bloodwell.name=Ferramentas de Escrita de Sangue
+item.item_primewell.name=Ferramenta de Escrita Primordial
+
+# - Wand Rods -
+item_wand_rod_infernal.name=Haste Infernal
+item_wand_rod_chorus.name=Haste do Choro
+item_wand_rod_livingwood_inert.name=Haste de Madeira Viva Dormente
+item_wand_rod_livingwood.name=Haste de Madeira Viva
+item_wand_rod_dreamwood_inert.name=Haste de Madeira dos Sonhos Dormente
+item_wand_rod_dreamwood.name=Haste de Madeira dos Sonhos
+item_wand_rod_archaic_inert.name=Haste Arcaica Extinta
+item_wand_rod_archaic.name=Haste Arcaica
+item_wand_rod_blood_inert.name=Haste Sanguinolenta
+item_wand_rod_blood.name=Haste Sanguínea
+
+# - Wand Caps -
+item_wand_cap_manasteel_inert.name=Ponta de Manasteel Inerte
+item_wand_cap_manasteel.name=Ponta de Manasteel
+item_wand_cap_elementium_inert.name=Ponta de Elementium Inerte
+item_wand_cap_elementium.name=Ponta de Elementium
+item_wand_cap_terrasteel.name=Ponta de Terrasteel
+item_wand_cap_dawnstone_inert.name=Ponta de Dawnstone Inerte
+item_wand_cap_dawnstone.name=Ponta de Dawnstone
+item_wand_cap_alchemical.name=Ponta Alquímica
+
+#
+
+# --- Wand Parts ---
+item.wand.infernal.rod=Infernal
+item.wand.chorus.rod=do Choro
+item.wand.livingwood.rod=de Madeira Viva
+item.wand.dreamwood.rod=de Madeira dos Sonhos
+item.wand.archaic.rod=Arcaica
+item.wand.blood.rod=Sanguínea
+item.wand.equivalent.rod=Equivalente
+item.wand.marble.rod=de Mármore
+
+item.wand.manasteel.cap=com Ponta de Manasteel Entrelaçado
+item.wand.elementium.cap=com Ponta de Elementium
+item.wand.terrasteel.cap=com Ponta de Terrasteel Nerfado
+item.wand.dawnstone.cap=com Ponta de Dawnstone Enfaixado
+item.wand.alchemical.cap=com Ponta Alquimicamente Coroada
+item.wand.starmetal.cap=com Ponta de Starmetal
+
+#
+
+# --- Research ---
+tc.research_category.POLYMANCY=Polimancia
+
+# -- Cards -- 
+
+# - Botania -
+
+# Alfheim
+card.alfheim.name=Alfheim
+card.alfheim.text=Você estuda os recursos naturais de Alfheim. Você ganha uma compreensão mais profunda do que está além do portão. Ganhe 20 de Polimancia.
+
+# Mana
+card.mana.name=Mana
+card.mana.text=Você tenta entender o impacto da mana nos materiais mudanos. Você ganha uma compreensão mais profunda de mana. Ganhe 20 de Polimancia.
+
+# Petals
+card.petal.name=Pétalas
+card.petal.text=Você examina as pétalas cuidadosamente, tentando entender por que elas formam uma flora mágica. Você ganha uma melhor compreensão da Botânica. Ganhe 15 de Polimancia.
+
+# Rune
+card.rune.name=Runas
+card.rune.text=Você tenta entender a ressonância entre runas, mana e flora. Permitindo ter uma melhor compreensão da Botânica. Ganhe 20 de Polimancia.
+
+# - Bloodmagic -
+
+# Blood Altar
+card.bloodaltar.name=Magia de Sangue
+card.bloodaltar.text=Você tenta entender o que o sangue faz com as pedras mundanas. Você acha que obteve uma compreensão mais profunda da essência da vida. Ganhe 20 de Polimancia.
+
+# Hellfireforge
+card.hellfireforge.name=Forja do Fogo Infernal
+card.hellfireforge.text=Você experimenta a Vontade Demoníaca e estuda suas reações ao vis. Você acha que obteve uma compreensão mais profunda da vida. Ganhe 25 de Polimancia.
+
+# - Embers -
+
+# Ember Bore
+card.bore.name=Broca de Âmbar
+card.bore.text=Você estuda esses cristais a partir do que está além do núcleo. Você acha que atingiu um nível mais profundo de ambar. Ganhe 20 de Polimancia.
+
+# -- Stages --
+
+# - Polymancy -
+
+# Polymancy
+research.POLYMANCY.title=Descobrindo a Polimacia
+research.POLYMANCY.stage.0=Polimacia descreve a arte de ser fluente em diferentes escolas de magia, este capítulo pretende explicar as interações entre a Taumaturgia e outros tipos de magia.
+
+# Infernal Rod
+research.ROD_INFERNAL.title=Haste Infernal
+research.ROD_INFERNAL.stage.0=O Nether parece ser um lugar cheio de magia... de que outra forma poderia estar tão quente lá? Mas minhas tentativas de aproveitar esse poder foram infrutíferas. A energia simplesmente não flui para minha varinha. É de alguma forma diferente... então talvez eu devesse tentar com algo que seja mais familiar ao Nether?
+research.ROD_INFERNAL.stage.1=Uma Blaze Rod foi um bom ponto de partida, mas não o suficiente para deixar o vis simplesmente fluir para dentro. Então tive que adicionar algum catalisador, criando um fluxo de vis para o interior da varinha... mas isso só é forte o suficiente enquanto a carga da varinha é menor que 20%. Por alguma razão, a capacidade das varinhas também foi duplicada, resultando em uma capacidade de 1.200 vis, o que pode estar relacionado à afinidade mágica da estrela do Nether, mas vai saber, né?
+
+# Chorus Rod
+research.ROD_CHORUS.title=Haste do Coro
+research.ROD_CHORUS.stage.0=O The End parece um lugar de completo vazio, mas eu sei que há muita magia ali. Esses dragões não podem simplesmente surgir do nada, mas como posso coletar todo o vis que está fluindo por ali?
+research.ROD_CHORUS.stage.1=Embora uma Varinha de Obsidiana pareça um bom lugar para começar, ela simplesmente não foi suficiente para aproveitar o poder do vazio. Então tentei usar uma parte do próprio dragão e parece funcionar, mas apenas se a carga da varinha for inferior a 20%. Também a capacidade aumentou, permitindo-me armazenar 1200 vis, os dragões são criaturas verdadeiramente mágicas.
+
+# Primoridial Inkwell
+research.PRIMEWELL.title=Tinteiro Primoridial
+research.PRIMEWELL.stage.0=A elaboração de teoria é o pior, sempre tendo que coletar coisas aparentemente aleatórias para estudar, mas ficar sem tinta é muito pior, se ao menos houvesse uma maneira de se livrar desse problema de uma vez por todas.
+research.PRIMEWELL.stage.1=A Pérola Primordial é cheia de magia, então deveria ser mais fácil para ela recarregar minhas ferramentas de escrita, alguns podem pensar que isso é um desperdício, mas as pessoas que duvidam de mim simplesmente não viram a realidade passada...
+
+# - Botania -
+
+# Botania
+research.BOTANIA.title=Descobrindo o Botania
+research.BOTANIA.stage.0=Alguns alquimistas loucos dizem que as flores são a linguagem universal com a qual o universo foi criado.<BR><BR>Quer isso seja verdade ou não, os botânicos descobriram uma maneira de aproveitar a energia das flores e de outras plantas para realizar grandes feitos de magia. Alguns Taumaturgos podem zombar de tal “feitiçaria imunda", mas há muito poder adormecido sob a terra para aqueles que estão dispostos a aceitá-lo.
+
+#Mana Inkwell
+research.MANAWELL.title=Tinteiro do Botanurgista
+research.MANAWELL.stage.0=Parece que meu tinteiro pode ser preenchido com mana em vez de tinta, simplesmente jogá-lo em uma poça suficientemente cheia deve me permitir parar de caçar essas lulas nojentas e me concentrar mais em minha pesquisa.
+
+# Livngwood Rod
+research.ROD_LIVINGWOOD.title=Haste de Madeira Viva
+research.ROD_LIVINGWOOD.stage.0=Eu ouvi falar de um tipo estranho de madeira que parece ser mais vivo do que apenas madeira normal. Tenho a sensação de que esse tipo de madeira pode ter todas as qualidades necessárias para uma nova varinha, então provavelmente deveria comprar algumas.
+research.ROD_LIVINGWOOD.stage.1=Funcionou, mas Madeira Viva também é bastante resistente à taumaturgia. Ela realmente não gostou da infusão. Então agora ela tem que ser despertada novamente em uma reserva de mana, mas parece que ela é capaz de extrair mana para transformá-la em vis. O que certamente será útil, mas o Botania parece oferecer muito mais.
+
+# Dreamwood Rod
+research.ROD_DREAMWOOD.title=Haste de Madeira dos Sonhos
+research.ROD_DREAMWOOD.stage.0=Os elfos me enviaram um novo tipo de madeira que é semelhante à madeira viva, mas parece mais potente, talvez eu possa criar uma varinha ainda melhor com ela.
+research.ROD_DREAMWOOD.stage.1=O processo de fazer uma vara de madeira dos sonhos era na verdade bastante semelhante a fazer uma vara de madeira viva, no entanto, a madeira dos sonhos pode armazenar muito mais vis do que apenas a madeira viva, permitindo armazenar 800 vis, ao mesmo tempo em que mantém sua propriedade de converter mana em vis.
+
+# Manasteel Cap
+research.CAP_MANASTEEL.title=Pontas de Manasteel
+research.CAP_MANASTEEL.stage.0=Infundir um pouco de ferro mundano com mana resultou em um metal bastante forte com um potencial mágico surpreendentemente alto, então deve ser relativamente fácil transformá-lo em alguns pontas de varinha.
+research.CAP_MANASTEEL.stage.1=Esse metal não gosta de metalurgia, mas uma vez regenerado com um pouco de mana proporcionam uma redução de 10% de vis, e tornam a conversão de mana em vis mais eficiente, e tudo isso sem infusão.
+
+# Terrasteel Cap
+research.CAP_TERRASTEEL.title=Pontas de Terrasteel
+research.CAP_TERRASTEEL.stage.0=Terrasteel foi criado usando grandes quantidades de mana, então deve conduzir vis muito bem, certo?
+research.CAP_TERRASTEEL.stage.1=Acontece que Terrasteel não é tão bom quanto eu pensava inicialmente. Está saturado de magia. Ele simplesmente não consegue parar de segurá-lo. Fazer pontas de varinha com ele possivelmente não é a melhor ideia, porém a menor quantidade de vis proveniente dele é tingido com §8Terra§r. Eu me pergunto o que há com isso.
+
+# Elementium Cap
+research.CAP_ELEMENTIUM.title=Pontas de Elementium
+research.CAP_ELEMENTIUM.stage.0=Esses elfos me enviaram um metal novo, me pergunto se eu poderia fazer pontas com ele, parece ter uma forte afinidade com os elementos, o que pode ser útil, como faço para transformá-lo em uma ponta?
+research.CAP_ELEMENTIUM.stage.1=Colocar o elementium em um formato adequado para wandcaps foi relativamente fácil, fazê-los funcionar novamente é outra história, de alguma forma ele perdeu todas as suas onze propriedades no processo, mas esse espírito que encontrei deu-lhe nova vida, permitindo um desconto de 85% como bem como um cristal para cada elemento. Parece que esses limites também são capazes de reduzir o consumo de mana.
+
+# - Blood Magic -
+
+# Blood Magic
+research.BLOODMAGIC.title=Descobrindo a Magia do Sangue
+research.BLOODMAGIC.stage.0=Magos de Sangue, ou “Feiticeiros Alquímicos”, como alguns preferem se chamar, são um grupo estranho e desagradável. Construindo estranhos zigurates onde praticam seus ritos sangrentos, os Blood Magi usam energia vital para imbuir itens com poder mágico ou até mesmo criar feitiços.<BR><BR>Um Taumaturgo mais inescrupuloso se interessando pela magia do sangue pode ser capaz de progredir em seus estudos, mas a que custo?
+
+# Blood Inkwell
+research.BLOODWELL.title=Tinteiro Sanguíneo
+research.BLOODWELL.stage.0=Embora possa não ser a escolha mais saudável para um Taumaturgo escrever pesquisas com seu próprio sangue, deveria ser possível para um Mago de Sangue, mas isso provavelmente exigiria mais do que este tinteiro mundano.
+research.BLOODWELL.stage.1=Ao combinar um Orbe de Sangue Fraco com um novo frasco e uma nova pena consegui criar um novo Tinteiro usando Sangue em vez de tinta, deve-se notar que este tinteiro simplesmente não gosta de ficar vazio, então irá drenar o sangue de seu proprietário. Embora isso não seja mortal, é no mínimo desagradável.
+
+# Blood Rod
+research.ROD_BLOOD.title=Haste Sanguínea
+research.ROD_BLOOD.stage.0=De alguma forma, o Sangue parece ter verdadeiras propriedades mágicas, mas não pode ser transformado em um bastão de varinha, pensando nisso, talvez não seja possível transformá-lo diretamente em um bastão de varinha. mas talvez pudesse ser usado para recarregá-lo de alguma forma...
+research.ROD_BLOOD.stage.1=Eu criei um projeto para uma varinha que tem um reservatório interno para sangue, permitindo que a varinha carregue a partir dela, mas isso exigia o uso de um orbe de sangue bastante avançado, para que uma quantidade suficiente de sangue pudesse ser fornecida. Esta haste é capaz de armazenar 800 vis e carregar na extensão da rede de vida do proprietário, só não deveria ficar sem vida...
+
+# Alchemical Caps
+research.CAP_ALCHEMICAL.title=Pontas Alquímicas
+research.CAP_ALCHEMICAL.stage.0=Embora a Haste Sanguínea esteja limpa, ainda faltam algumas pontas adequadas. Talvez a magia do sangue também tenha uma solução?
+research.CAP_ALCHEMICAL.stage.1=Essas pontas de varinha que fiz são infundidas com o catalisador alquímico da água, aumentando a eficiência da conversão entre a essência da vida e o vis, ao infundi-las também ganharam um pequeno aumento no desconto do vis para 90%, bem como uma redução nos cristais de aqua.
+
+# - Embers -
+
+# Embers
+research.EMBERS.title=Descobrindo Âmbar
+research.EMBERS.stage.0=Ainda é debatido se as pessoas envolvidas no estudo de Ember são verdadeiros magos ou apenas engenheiros chatos, no entanto, parece que a substância que eles chamam de brasa é capaz de criar alguma vida semelhante a autômatos, o que definitivamente mostra alguma afiliação ao arcano. Pode valer a pena para um Taumaturgo aproveitar o poder deste “fogo dos deuses”.
+
+# Ember Inkwell
+research.EMBERWELL.title=Tinteiro de Âmbar
+research.EMBERWELL.stage.0=A escritura no Codex parece brilhar da mesma forma que a brasa, talvez haja alguma maneira de usá-la em minha própria pesquisa.
+research.EMBERWELL.stage.1=Consegui modificar um jarro de manto, com um pouco de taumaturgia, transformando-o efetivamente em uma ferramenta de escrita movida a brasa.
+
+# Archaic Rod
+research.ROD_ARCHAIC.title=Haste Arcáica
+research.ROD_ARCHAIC.stage.0=Ember é capaz de alimentar golens enormes feitos de rocha sólida, mostrando todas as suas capacidades, mas me pergunto se é capaz de alimentar algumas coisas mais complexas, como por exemplo minha varinha.
+research.ROD_ARCHAIC.stage.1=Eu criei um novo design para uma haste de varinha, que parece ser bastante semelhante ao de um golem antigo. Porém parece bastante inativo.. parece que precisa ser ativado antes de ser capaz de converter ambar em vis.
+
+# Dawnstone Caps
+research.CAP_DAWNSTONE.title=Pontas de Dawnstone
+research.CAP_DAWNSTONE.stage.0=O antigo Codex diz que Dawnstone está imbuído de Ember, então, acho que posso esperar que essas pontas se encaixem perfeitamente no topo da minha nova varinha, e como é feita apenas de ouro e cobre, não deve ser difícil transformá-la em pontas varinha funcionais.
+research.CAP_DAWNSTONE.stage.1=Embora a pedra da alvorada seja um excelente material para metalurgia, parece perder um pouco de brasa no processo, porém isso não é nada que não possa ser consertado com um pouco mais de brasa, permitindo uma redução de 5% no custo de vis, além de um desconto de cristal de §eAER§r e §cIGNIS§r, e parece otimizar a taxa de conversão de ambar também.
